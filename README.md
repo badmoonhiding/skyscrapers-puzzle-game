@@ -1,2 +1,2 @@
-# skyscrapers-simulator
+# skyscrapers-puzzle
 Coming soon...
